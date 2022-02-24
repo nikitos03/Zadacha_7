@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.exe
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.deps.json
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.runtimeconfig.json
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.dll
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ref\ЕНГ_Task_07.dll
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\bin\Debug\net5.0\ЕНГ_Task_07.pdb
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.AssemblyInfo.cs
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.dll
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ref\ЕНГ_Task_07.dll
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.pdb
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_01\ЕНГ_Task_07\obj\Debug\net5.0\ЕНГ_Task_07.genruntimeconfig.cache
